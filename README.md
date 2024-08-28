@@ -1,5 +1,5 @@
 # PolitiCAUSE
-An Annotation Scheme and Corpus for Causality in Political Text
+An Annotation Scheme and Corpus for Causality in Political Text 
 
 PolitiCAUSE is a corpus of political texts annotated for causality.
 
@@ -18,3 +18,6 @@ The dataset is available in two ways:
 We benchmarked the dataset using three transformer-based classification models, the models achieve a moderate performance on the dataset, with a MCC score of 0.62.
 
 PolitiCAUSE is a valuable resource for studying causality in texts, especially in the domain of political discourse.
+
+To cite us:
+Paulina Garcia Corral, Hanna Bechara, Ran Zhang, and Slava Jankin. 2024. PolitiCause: An Annotation Scheme and Corpus for Causality in Political Texts. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 12836–12845, Torino, Italia. ELRA and ICCL. https://aclanthology.org/2024.lrec-main.1124/
